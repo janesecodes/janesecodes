@@ -35,7 +35,6 @@ I'm a full-stack developer and content creator. All coding projects are built fr
 #
 
 <details>
- <summary><h3>Janese's Coding Journey</h3></summary>
 
 
 [youtube]: https://youtube.com/JaneseWalker
