@@ -34,7 +34,4 @@ I'm a full-stack developer and content creator. All coding projects are built fr
 
 #
 
-<details>
-
-
 [youtube]: https://youtube.com/JaneseWalker
