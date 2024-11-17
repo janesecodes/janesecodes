@@ -2,7 +2,7 @@
 
 **`Developer, Photographer, Creator`**
 
-I'm a full-stack developer and content creator. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a web developer and a photographer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ---
 
